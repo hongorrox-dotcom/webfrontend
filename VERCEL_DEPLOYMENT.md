@@ -25,12 +25,12 @@
 In Vercel Project Settings → Environment Variables, add:
 
 ```
-VITE_API_BASE=https://webfrontend-1aao.onrender.com
+VITE_BACKEND_URL=https://systemdynamics.onrender.com
 ```
 
 **For development:**
 ```
-VITE_API_BASE=http://localhost:8000
+VITE_BACKEND_URL=http://localhost:8000
 ```
 
 ### Step 4: Deploy
@@ -66,7 +66,7 @@ ALLOWED_ORIGIN_REGEX=^https://webfrontend.*\.vercel\.app$
 
 If frontend can't reach backend:
 
-1. Check `VITE_API_BASE` environment variable
+1. Check `VITE_BACKEND_URL` environment variable
 2. Verify backend `ALLOWED_ORIGINS` includes frontend URL
 3. Check browser console for exact error
 

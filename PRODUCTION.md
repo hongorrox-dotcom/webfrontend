@@ -32,12 +32,12 @@ ALLOWED_ORIGIN_REGEX=^https://(your-frontend-domain\.(onrender\.com|vercel\.app)
 
 In frontend `.env` file, set API URL to:
 ```
-VITE_API_BASE=https://webfrontend-1aao.onrender.com
+VITE_BACKEND_URL=https://systemdynamics.onrender.com
 ```
 
 Or pass as environment variable during build:
 ```bash
-VITE_API_BASE=https://webfrontend-1aao.onrender.com npm run build
+VITE_BACKEND_URL=https://systemdynamics.onrender.com npm run build
 ```
 
 ## API Endpoints
