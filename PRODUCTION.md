@@ -30,14 +30,14 @@ ALLOWED_ORIGIN_REGEX=^https://(your-frontend-domain\.(onrender\.com|vercel\.app)
 
 ### Step 3: Update Frontend API URL
 
-In frontend code, set API URL to:
-```javascript
-const API_URL = "https://webfrontend-1aao.onrender.com"
+In frontend `.env` file, set API URL to:
+```
+VITE_API_BASE=https://webfrontend-1aao.onrender.com
 ```
 
-Or use environment variable:
-```
-VITE_API_URL=https://webfrontend-1aao.onrender.com
+Or pass as environment variable during build:
+```bash
+VITE_API_BASE=https://webfrontend-1aao.onrender.com npm run build
 ```
 
 ## API Endpoints
