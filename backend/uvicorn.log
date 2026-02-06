@@ -1,0 +1,532 @@
+/Users/hongorzul/Downloads/odoo jinhene 1/backend/app/config.py:9: UserWarning: Core Pydantic V1 functionality isn't compatible with Python 3.14 or greater.
+  from pydantic.v1 import BaseSettings  # type: ignore
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     Started server process [14258]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
+INFO:     127.0.0.1:50546 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50546 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50548 - "OPTIONS /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50548 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50546 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50555 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50555 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50555 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50564 - "OPTIONS /api/simulate HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:50564 - "POST /api/simulate HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50564 - "OPTIONS /api/explain HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50564 - "POST /api/explain HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50633 - "OPTIONS /api/chat_graph HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50633 - "POST /api/chat_graph HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50662 - "POST /api/chat_graph HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50739 - "POST /api/chat_graph HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50803 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50803 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50805 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50803 - "POST /api/reset HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:50803 - "POST /api/simulate HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50815 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50815 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50815 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50822 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50828 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50828 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50828 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50828 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50828 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50828 - "POST /api/reset HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:50837 - "POST /api/simulate HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50843 - "POST /api/explain HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50849 - "POST /api/chat_graph HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50853 - "POST /api/chat_graph HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50861 - "POST /api/chat_graph HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50866 - "POST /api/chat_graph HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50898 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50898 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50900 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50898 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50964 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50964 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50966 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50964 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50991 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50991 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50991 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50993 - "POST /api/reset HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:50995 - "POST /api/simulate HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:50995 - "POST /api/simulate HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:50995 - "POST /api/simulate HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:50995 - "POST /api/simulate HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:50995 - "POST /api/simulate HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:50995 - "POST /api/simulate HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:50995 - "POST /api/simulate HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:50995 - "POST /api/simulate HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51000 - "OPTIONS /api/simulate HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:51000 - "POST /api/simulate HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:51000 - "POST /api/simulate HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:51000 - "POST /api/simulate HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:51000 - "POST /api/simulate HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:51000 - "POST /api/simulate HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:51000 - "POST /api/simulate HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:51000 - "POST /api/simulate HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51002 - "OPTIONS /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51002 - "POST /api/reset HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:51004 - "POST /api/simulate HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51006 - "POST /api/reset HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:51006 - "POST /api/simulate HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:51006 - "POST /api/simulate HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:51006 - "POST /api/simulate HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:51006 - "POST /api/simulate HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:51006 - "POST /api/simulate HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:51009 - "POST /api/simulate HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51009 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51009 - "POST /api/reset HTTP/1.1" 200 OK
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+/Library/Frameworks/Python.framework/Versions/3.14/lib/python3.14/site-packages/pysd/py_backend/lookups.py:96: UserWarning: _hardcodedlookup_nvs_34
+extrapolating data above the maximum value of the series
+  warnings.warn(
+INFO:     127.0.0.1:51009 - "POST /api/simulate HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51086 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51086 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51086 - "OPTIONS /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51088 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51090 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51086 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51088 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51092 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51088 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51159 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51159 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51163 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51159 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51159 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51159 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51163 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51159 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51334 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51334 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51336 - "OPTIONS /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51334 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51336 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51338 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51334 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51340 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51340 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51393 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51393 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51395 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51393 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51397 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51393 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51397 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51393 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51501 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51501 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51501 - "OPTIONS /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51504 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51505 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51501 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51504 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51507 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51507 - "POST /api/reset HTTP/1.1" 200 OK
