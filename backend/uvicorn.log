@@ -530,3 +530,17 @@ INFO:     127.0.0.1:51501 - "POST /api/reset HTTP/1.1" 200 OK
 INFO:     127.0.0.1:51504 - "GET /api/config HTTP/1.1" 200 OK
 INFO:     127.0.0.1:51507 - "POST /api/reset HTTP/1.1" 200 OK
 INFO:     127.0.0.1:51507 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52534 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52534 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52536 - "OPTIONS /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52534 - "OPTIONS /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52536 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52534 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52748 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52748 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52750 - "OPTIONS /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52750 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52748 - "POST /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53188 - "GET /api/config HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53188 - "OPTIONS /api/reset HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53188 - "POST /api/reset HTTP/1.1" 200 OK

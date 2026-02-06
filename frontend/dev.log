@@ -7,3 +7,8 @@
 
   ➜  Local:   http://localhost:5173/
   ➜  Network: http://192.168.1.24:5173/
+6:14:03 PM [vite] hmr update /src/App.jsx
+6:14:32 PM [vite] .env changed, restarting server...
+6:14:32 PM [vite] server restarted.
+6:14:39 PM [vite] .env changed, restarting server...
+6:14:39 PM [vite] server restarted.
