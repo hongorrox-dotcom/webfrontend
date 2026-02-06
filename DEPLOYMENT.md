@@ -79,7 +79,58 @@ Frontend will be available at: `http://localhost:5173`
 - **Minimum:** Python 3.10.x
 - **Avoid:** Python 3.14.x (dependency compatibility issues)
 
-### Environment Variables
+### Render.com Deployment
+
+#### Step 1: Prepare Files
+
+Files are already configured:
+- `runtime.txt` - Specifies Python 3.12.0
+- `Procfile` - Runs uvicorn on port $PORT
+- `backend/requirements.txt` - All dependencies
+
+#### Step 2: Create Render Service
+
+1. Go to [render.com](https://render.com)
+2. Click "New +" → "Web Service"
+3. Connect your GitHub repository: `https://github.com/hongorrox-dotcom/webfrontend.git`
+4. Configure:
+   - **Name:** `webfrontend-api` (or your choice)
+   - **Environment:** Python 3
+   - **Build Command:** `pip install -r backend/requirements.txt`
+   - **Start Command:** `cd backend && uvicorn app.main:app --host 0.0.0.0 --port $PORT`
+
+#### Step 3: Set Environment Variables
+
+In Render dashboard, add these environment variables:
+
+```
+OPENAI_API_KEY=your_production_openai_key
+OPENAI_MODEL=gpt-4o-mini
+MODEL_PATH=./models/dornodjinkencopy2.mdl
+DEMO_MODE_AUTO=0
+ALLOWED_ORIGINS=https://your-frontend-domain.com,https://www.your-frontend-domain.com
+ALLOWED_ORIGIN_REGEX=^https://(www\.)?your-frontend-domain\.com$
+```
+
+#### Step 4: Deploy
+
+- Click "Create Web Service"
+- Render will automatically deploy on every push to `main` branch
+
+#### Backend URL
+
+Your API will be available at:
+```
+https://webfrontend-api.onrender.com
+```
+
+Update your frontend `.env` to point to this URL:
+
+```env
+VITE_API_URL=https://webfrontend-api.onrender.com
+```
+
+### Environment Variables for Production
 
 Set these in your production environment:
 
