@@ -2,9 +2,9 @@
 
 ## Python Version Requirements
 
-**Required Python Version: 3.10 - 3.12** (Recommended: 3.12.0)
+**Required Python Version: 3.10 - 3.11** (Recommended: 3.11.7)
 
-⚠️ **Note:** Python 3.14 may have compatibility issues with some dependencies like `httpcore`.
+⚠️ **Note:** Python 3.14 may have compatibility issues with some dependencies like `httpcore`. Render doesn't currently support Python 3.12+, so use 3.11.7.
 
 ### Recommended Setup
 
@@ -75,16 +75,17 @@ Frontend will be available at: `http://localhost:5173`
 
 ### Python Version for Production
 
-- **Recommended:** Python 3.12.x (LTS stability)
+- **Recommended:** Python 3.11.7 (Render compatible, stable)
 - **Minimum:** Python 3.10.x
 - **Avoid:** Python 3.14.x (dependency compatibility issues)
+- **Not supported on Render:** Python 3.12+ (not available yet)
 
 ### Render.com Deployment
 
 #### Step 1: Prepare Files
 
 Files are already configured:
-- `runtime.txt` - Specifies Python 3.12.0
+- `runtime.txt` - Specifies Python 3.11.7 (Render compatible)
 - `Procfile` - Runs uvicorn on port $PORT
 - `backend/requirements.txt` - All dependencies
 
@@ -146,7 +147,7 @@ ALLOWED_ORIGIN_REGEX=your_production_regex
 ### Docker Deployment Example
 
 ```dockerfile
-FROM python:3.12-slim
+FROM python:3.11-slim
 
 WORKDIR /app
 
